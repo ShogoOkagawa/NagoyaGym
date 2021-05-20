@@ -1,14 +1,14 @@
 <?php
 //require_once 'config/nagoyagym_config.php';
 
-$user = "shogo0922_wp1";
-$pass = "okagawa1981";
+$user = "**********";
+$pass = "**********";
 
 $DB_HOST ="localhost";
-$DB_DATEBASE = "shogo0922_nagoyagym";
-$DB_USERNAME ="shogo0922_wp1";
-$DB_PASSWORD = "okagawa1981";
-$dsn = "mysql:dbname=shogo0922_nagoyagym;host=localhost;charset=utf8mb4";
+$DB_DATEBASE = "**********";
+$DB_USERNAME ="**********";
+$DB_PASSWORD = "**********";
+$dsn = "mysql:dbname=**********;host=localhost;charset=utf8mb4";
 
 // タイムゾーンを設定
 date_default_timezone_set('Asia/Tokyo');
