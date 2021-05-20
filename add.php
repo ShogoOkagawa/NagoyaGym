@@ -1,14 +1,14 @@
 <?php
 //require_once 'nagoyagym_config.php';
 
-$user = "shogo0922_wp1";
-$pass = "okagawa1981";
+$user = "＊＊＊＊＊＊＊＊＊＊＊＊＊＊";
+$pass = "＊＊＊＊＊＊＊＊＊＊＊＊＊＊;
 
 $DB_HOST ="localhost";
-$DB_DATEBASE = "shogo0922_nagoyagym";
-$DB_USERNAME ="shogo0922_wp1";
-$DB_PASSWORD = "okagawa1981";
-$dsn = "mysql:dbname=shogo0922_nagoyagym;host=localhost;charset=utf8mb4";
+$DB_DATEBASE = "＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊";
+$DB_USERNAME ="＊＊＊＊＊＊＊＊＊＊＊＊＊＊";
+$DB_PASSWORD = "＊＊＊＊＊＊";
+$dsn = "mysql:dbname=＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊;host=localhost;charset=utf8mb4";
 
 $user_name_kana = $_POST['user_name_kana'];
 $user_name = $_POST['user_name'];
